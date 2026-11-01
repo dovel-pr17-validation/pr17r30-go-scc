@@ -11,7 +11,7 @@ require (
 	github.com/clipperhouse/uax29/v2 v2.7.0
 	github.com/go-git/go-git/v5 v5.19.2
 	github.com/json-iterator/go v1.1.12
-	github.com/mark3labs/mcp-go v0.55.0
+	github.com/mark3labs/mcp-go v1.5.0
 	github.com/mattn/go-isatty v0.0.22
 	github.com/mattn/go-runewidth v0.0.24
 	github.com/rs/zerolog v1.35.1
