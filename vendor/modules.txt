@@ -32,7 +32,7 @@ github.com/ProtonMail/go-crypto/openpgp/packet
 github.com/ProtonMail/go-crypto/openpgp/s2k
 github.com/ProtonMail/go-crypto/openpgp/x25519
 github.com/ProtonMail/go-crypto/openpgp/x448
-# github.com/agnivade/levenshtein v1.2.2-0.20250519083737-420867539855
+# github.com/agnivade/levenshtein v1.2.2
 ## explicit; go 1.21
 github.com/agnivade/levenshtein
 # github.com/boyter/gocodewalker v1.5.2-0.20260915052357-79ea126d5360
