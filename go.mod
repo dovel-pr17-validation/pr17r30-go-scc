@@ -5,7 +5,7 @@ go 1.26.4
 ignore ./examples
 
 require (
-	github.com/agnivade/levenshtein v1.2.2-0.20250519083737-420867539855
+	github.com/agnivade/levenshtein v1.2.2
 	github.com/boyter/gocodewalker v1.5.2-0.20260915052357-79ea126d5360
 	github.com/boyter/simplecache v0.0.0-20260310220729-445661819a53
 	github.com/clipperhouse/uax29/v2 v2.7.0
